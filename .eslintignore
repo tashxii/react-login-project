@@ -1,0 +1,2 @@
+#ESLint ignore setting
+/src/libs/common/logger.js
